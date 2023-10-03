@@ -1,6 +1,6 @@
 # Big Data Management Backbone
 
-This project is divided into two main parts. Data Ingestion and Storage, done with @amartorell98, and Data Transformation, Modeling, and Visualization, done with @PimSchoolkateUPC.
+This project is divided into two main parts. Data Ingestion and Storage, done with [@amartorell98](https://github.com/amartorell98), and Data Transformation, Modeling, and Visualization, done with [@PimSchoolkateUPC](https://github.com/PimSchoolkateUPC).
 
 ## Part 1: Data Ingestion and Storage
 
